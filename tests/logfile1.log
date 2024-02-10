@@ -1,0 +1,113 @@
+2024-02-05 17:23:41,220 :INFO :test_e2e :getting card details
+2024-02-05 17:23:41,268 :INFO :test_e2e :iphone X
+2024-02-05 17:23:41,281 :INFO :test_e2e :Samsung Note 8
+2024-02-05 17:23:41,294 :INFO :test_e2e :Nokia Edge
+2024-02-05 17:23:41,307 :INFO :test_e2e :Blackberry
+2024-02-05 17:23:41,662 :INFO :test_e2e :enter country details
+2024-02-05 17:24:17,926 :INFO :test_e2e :getting card details
+2024-02-05 17:24:17,962 :INFO :test_e2e :iphone X
+2024-02-05 17:24:17,973 :INFO :test_e2e :Samsung Note 8
+2024-02-05 17:24:17,984 :INFO :test_e2e :Nokia Edge
+2024-02-05 17:24:17,993 :INFO :test_e2e :Blackberry
+2024-02-05 17:24:18,213 :INFO :test_e2e :enter country details
+2024-02-05 17:27:11,708 :INFO :test_e2e :getting card details
+2024-02-05 17:27:11,788 :INFO :test_e2e :iphone X
+2024-02-05 17:27:11,816 :INFO :test_e2e :Samsung Note 8
+2024-02-05 17:27:11,839 :INFO :test_e2e :Nokia Edge
+2024-02-05 17:27:11,866 :INFO :test_e2e :Blackberry
+2024-02-05 17:27:12,413 :INFO :test_e2e :enter country details
+2024-02-05 17:45:38,919 :INFO :test_e2e :Information statement
+2024-02-05 17:45:39,438 :INFO :test_e2e :getting card details
+2024-02-05 17:45:39,548 :INFO :test_e2e :iphone X
+2024-02-05 17:45:39,554 :INFO :test_e2e :Samsung Note 8
+2024-02-05 17:45:39,559 :INFO :test_e2e :Nokia Edge
+2024-02-05 17:45:39,566 :INFO :test_e2e :Blackberry
+2024-02-05 17:45:39,688 :INFO :test_e2e :enter country details
+2024-02-05 17:55:46,518 :INFO :test_e2e :Information statement
+2024-02-05 17:55:48,544 :INFO :test_e2e :getting card details
+2024-02-05 17:55:48,625 :INFO :test_e2e :iphone X
+2024-02-05 17:55:48,651 :INFO :test_e2e :Samsung Note 8
+2024-02-05 17:55:48,674 :INFO :test_e2e :Nokia Edge
+2024-02-05 17:55:48,696 :INFO :test_e2e :Blackberry
+2024-02-05 17:55:49,224 :INFO :test_e2e :enter country details
+2024-02-05 17:57:56,119 :INFO :test_e2e :Information statement
+2024-02-05 17:57:57,229 :INFO :test_e2e :getting card details
+2024-02-05 17:57:57,315 :INFO :test_e2e :iphone X
+2024-02-05 17:57:57,343 :INFO :test_e2e :Samsung Note 8
+2024-02-05 17:57:57,370 :INFO :test_e2e :Nokia Edge
+2024-02-05 17:57:57,397 :INFO :test_e2e :Blackberry
+2024-02-05 17:57:57,980 :INFO :test_e2e :enter country details
+2024-02-05 18:22:06,314 :INFO :TestOne :Information statement
+2024-02-05 18:22:07,006 :INFO :TestOne :getting card details
+2024-02-05 18:22:07,033 :INFO :TestOne :iphone X
+2024-02-05 18:22:07,042 :INFO :TestOne :Samsung Note 8
+2024-02-05 18:22:07,051 :INFO :TestOne :Nokia Edge
+2024-02-05 18:22:07,060 :INFO :TestOne :Blackberry
+2024-02-05 18:22:07,124 :INFO :TestOne :Information statement
+2024-02-05 18:22:07,296 :INFO :TestOne :enter country details
+2024-02-05 18:22:07,875 :INFO :TestOne :getting card details
+2024-02-05 18:22:07,901 :INFO :TestOne :iphone X
+2024-02-05 18:22:07,909 :INFO :TestOne :Samsung Note 8
+2024-02-05 18:22:07,915 :INFO :TestOne :Nokia Edge
+2024-02-05 18:22:07,922 :INFO :TestOne :Blackberry
+2024-02-05 18:22:08,071 :INFO :TestOne :enter country details
+2024-02-05 18:22:11,179 :INFO :TestOne :text received matches×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-05 18:22:11,937 :INFO :TestOne :text received matches×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-08 19:27:15,282 :INFO :TestOne :Information statement
+2024-02-08 19:27:16,317 :INFO :TestOne :getting card details
+2024-02-08 19:27:16,350 :INFO :TestOne :iphone X
+2024-02-08 19:27:16,360 :INFO :TestOne :Samsung Note 8
+2024-02-08 19:27:16,371 :INFO :TestOne :Nokia Edge
+2024-02-08 19:27:16,380 :INFO :TestOne :Blackberry
+2024-02-08 19:27:16,584 :INFO :TestOne :enter country details
+2024-02-08 19:27:22,008 :INFO :TestOne :text received matches×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-08 19:31:08,939 :INFO :TestHomePage :Information statement
+2024-02-08 19:31:09,688 :INFO :TestHomePage :Information statement
+2024-02-08 19:31:09,688 :INFO :TestHomePage :Information statement
+2024-02-08 19:31:10,017 :INFO :TestHomePage :Information statement
+2024-02-08 19:31:10,017 :INFO :TestHomePage :Information statement
+2024-02-08 19:31:10,017 :INFO :TestHomePage :Information statement
+2024-02-08 19:31:10,322 :INFO :TestHomePage :Information statement
+2024-02-08 19:31:10,322 :INFO :TestHomePage :Information statement
+2024-02-08 19:31:10,322 :INFO :TestHomePage :Information statement
+2024-02-08 19:31:10,322 :INFO :TestHomePage :Information statement
+2024-02-08 19:31:15,832 :INFO :TestOne :Information statement
+2024-02-08 19:31:16,914 :INFO :TestOne :getting card details
+2024-02-08 19:31:16,929 :INFO :TestOne :iphone X
+2024-02-08 19:31:16,935 :INFO :TestOne :Samsung Note 8
+2024-02-08 19:31:16,939 :INFO :TestOne :Nokia Edge
+2024-02-08 19:31:16,943 :INFO :TestOne :Blackberry
+2024-02-08 19:31:17,043 :INFO :TestOne :enter country details
+2024-02-08 19:31:22,368 :INFO :TestOne :text received matches×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-08 20:12:49,395 :INFO :TestHomePage :Information statement
+2024-02-08 20:12:50,060 :INFO :TestHomePage :Information statement
+2024-02-08 20:12:50,060 :INFO :TestHomePage :Information statement
+2024-02-08 20:12:50,412 :INFO :TestHomePage :Information statement
+2024-02-08 20:12:50,412 :INFO :TestHomePage :Information statement
+2024-02-08 20:12:50,412 :INFO :TestHomePage :Information statement
+2024-02-08 20:12:50,818 :INFO :TestHomePage :Information statement
+2024-02-08 20:12:50,818 :INFO :TestHomePage :Information statement
+2024-02-08 20:12:50,818 :INFO :TestHomePage :Information statement
+2024-02-08 20:12:50,818 :INFO :TestHomePage :Information statement
+2024-02-08 20:12:59,706 :INFO :TestOne :Information statement
+2024-02-08 20:13:00,825 :INFO :TestOne :getting card details
+2024-02-08 20:13:00,846 :INFO :TestOne :iphone X
+2024-02-08 20:13:00,852 :INFO :TestOne :Samsung Note 8
+2024-02-08 20:13:00,860 :INFO :TestOne :Nokia Edge
+2024-02-08 20:13:00,865 :INFO :TestOne :Blackberry
+2024-02-08 20:13:00,997 :INFO :TestOne :enter country details
+2024-02-08 20:13:06,313 :INFO :TestOne :text received matches×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-09 17:24:57,968 :INFO :TestOne :Information statement
+2024-02-09 17:24:59,292 :INFO :TestOne :getting card details
+2024-02-09 17:24:59,345 :INFO :TestOne :iphone X
+2024-02-09 17:24:59,362 :INFO :TestOne :Samsung Note 8
+2024-02-09 17:24:59,379 :INFO :TestOne :Nokia Edge
+2024-02-09 17:24:59,396 :INFO :TestOne :Blackberry
+2024-02-09 17:24:59,723 :INFO :TestOne :enter country details
+2024-02-09 17:25:05,402 :INFO :TestOne :text received matches×
+Success! Thank you! Your order will be delivered in next few weeks :-).
